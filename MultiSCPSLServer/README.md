@@ -1,0 +1,1 @@
+﻿a program to run multi-SCPSL-server on windows,it makes every server has its own config,plugins and so on,it makes them totally independent.
